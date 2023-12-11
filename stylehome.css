@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(253, 219, 225);
+}
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  
+    height: 500px;
+    font-family: cursive; color: rgb(253, 219, 225);
+    font-size: 50px;
+    
+    
+
+}
+
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: rgb(250, 167, 180);
+    font-size: 20px;
+    text-decoration: none;
+}
